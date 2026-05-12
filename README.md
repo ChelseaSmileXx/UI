@@ -38,10 +38,11 @@
 
 1. Клонируйте репозиторий:
 
+   ```bash
    git clone https://github.com/ChelseaSmileXx/UI.git
 
 2. Перейдите в папку проекта:
-
+   ```bash
    cd UI
 
 3. Откройте файл index.html в браузере (или используйте Live Server в VS Code)
