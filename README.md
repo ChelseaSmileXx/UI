@@ -38,7 +38,7 @@
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone https://github.com/ваш_логин/название_репозитория.git
+   git clone https://github.com/ChelseaSmileXx/UI.git
 
 2. Перейдите в папку проекта:
 
